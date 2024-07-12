@@ -50,8 +50,6 @@ header {
     padding-top: 10px;
     background: linear-gradient(180deg, rgb(252, 253, 253) 17%, rgb(25, 140, 236), rgb(240, 13, 28));
     position: relative;
-    /* float: right; */
-    /* margin-left: auto; */
 }
 
 .company-motto__border {
